@@ -1,0 +1,84 @@
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmMarka.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmSeri.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmCustomerList.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkArea.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkEnter.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkLeave.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmSell.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmMarka.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmCustomerList.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkLeave.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkEnter.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkArea.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmSell.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmSeri.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmMarka.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmCustomerList.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkLeave.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkEnter.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmOtoparkArea.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmSell.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Forms.frmSeri.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\#Otomasyon\Otopark Otomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
